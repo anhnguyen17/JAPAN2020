@@ -23,5 +23,8 @@ The fine tuning process is done by using the Huggingface library.
 ### Output
 A short message prompting the target to click on the attached link
 
+## Assistance
+This project was completed with a great help from the instructors and TAs at CoderSchool, especially anh Quan Tran
+
 ## References
 https://towardsdatascience.com/poor-mans-gpt-3-few-shot-text-generation-with-t5-transformer-51f1b01f843e
