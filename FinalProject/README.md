@@ -23,6 +23,10 @@ The fine tuning process is done by using the Huggingface library.
 ### Output
 A short message prompting the target to click on the attached link
 
+### Future works:
+Include profile scraping for keyword extraction
+Add more ways for spear-phishing (LinkedIn, Emails, text messages,...)
+
 ## Assistance
 This project was completed with a great help from the instructors and TAs at CoderSchool, especially anh Quan Tran
 
